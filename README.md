@@ -27,7 +27,7 @@ npm run dev
 Credits: Domenico Lucina
 
 
-## Struttura estesa (pronta per crescere)
+## Struttura estesa
 - `games/` giochi modulari (bubble, poker, roulette, ecc.)
 - `assets/` risorse (avatar, carte, suoni, loghi)
 - `database/` cartelle placeholder (in v0.1 non usate)
